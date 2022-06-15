@@ -1,0 +1,20 @@
+.homepage {
+    min-height: 100vh;
+}
+
+.blocks-container {
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+
+.block {
+    flex-grow: 1;
+    width: 40%;
+    padding: 20px 30px;
+}
+
+

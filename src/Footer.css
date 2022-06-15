@@ -1,0 +1,29 @@
+
+
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(49, 49, 49);
+    color: white;
+    position: relative;
+    bottom: 0px;
+}
+
+.company {
+    padding-top: 25px;
+}
+
+.list {
+    list-style-type: none;
+
+}
+
+.info p {
+    padding-left: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}

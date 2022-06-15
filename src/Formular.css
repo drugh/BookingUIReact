@@ -1,0 +1,30 @@
+
+
+.formular {
+    text-align: left;
+    margin: auto;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.formular label {
+    padding: 5px;
+}
+
+.formular input {
+    width: 100%;
+    padding: 10px 5px;
+}
+
+#send {
+    width: 100%;
+    padding: 10px 10px;
+    margin: 20px auto;
+    background-color: #508d00;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
